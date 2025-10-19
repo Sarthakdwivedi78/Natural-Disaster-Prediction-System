@@ -1046,7 +1046,7 @@ def main():
             color='disaster_type',
             size='mag',
             hover_data=['mag'],
-            mapbox_style='open-street-map',
+            style='open-street-map',
             title="Global Distribution of Natural Disasters",
             zoom=1
         )
