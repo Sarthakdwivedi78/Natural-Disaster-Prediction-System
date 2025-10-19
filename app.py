@@ -1039,17 +1039,18 @@ def main():
         
         # Geographic distribution
         st.subheader("🗺️ Geographic Distribution")
-        fig = px.scatter_mapbox(
+        fig = px.scatter_map(
             st.session_state.data,
             lat='latitude',
             lon='longitude',
             color='disaster_type',
             size='mag',
             hover_data=['mag'],
-            mapbox_style='open-street-map',
             title="Global Distribution of Natural Disasters",
-            zoom=1
+            zoom=4
         )
+        fig.update_layout(map_style="open-street-map")
+      
         st.plotly_chart(fig, use_container_width=True)
     
     # Model performance section
