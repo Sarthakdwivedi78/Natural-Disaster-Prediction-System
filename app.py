@@ -1039,7 +1039,7 @@ def main():
         
         # Geographic distribution
         st.subheader("🗺️ Geographic Distribution")
-        fig = px.scatter_mapbox(
+        fig = px.scatter_map(
             st.session_state.data,
             lat='latitude',
             lon='longitude',
