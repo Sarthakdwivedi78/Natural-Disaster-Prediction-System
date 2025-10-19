@@ -59,11 +59,15 @@ Once you have installed the dependencies, you can run the Streamlit app with a s
 
 ```bash<img width="1909" height="976" alt="Screenshot 2025-10-19 210626" src="https://github.com/user-attachments/assets/58bfc73d-0619-4f8f-99bd-6c85c3ead1ce" />
 
-streamlit run app.py<img width="1911" height="993" alt="Screenshot 2025-10-19 210648" src="https://github.com/user-attachments/assets/25e727ef-a4c5-4c54-b72a-51866bf8767a" />
+streamlit run app.py<img width="1225" height="721" alt="Screenshot 2025-10-19 212311" src="https://github.com/user-attachments/assets/035621ca-8415-4e93-83dc-bb43b7cf49e3" />
+<img width="1762" height="878" alt="Screenshot 2025-10-19 211642" src="https://github.com/user-attachments/assets/7dbcd347-ac2e-410c-b10b-dd568262bde1" />
+<img width="1766" height="972" alt="Screenshot 2025-10-19 211609" src="https://github.com/user-attachments/assets/36464a89-7e10-43c1-bda9-852da8e7e4f8" />
+<img width="1915" height="906" alt="Screenshot 2025-10-19 211539" src="https://github.com/user-attachments/assets/b0a8d287-b8e2-4536-951b-f00679c8f138" />
+<img width="1882" height="977" alt="Screenshot 2025-10-19 211521" src="https://github.com/user-attachments/assets/0f2e6fe9-7175-481f-a08e-f6ae96ab069d" />
+<img width="1899" height="1001" alt="Screenshot 2025-10-19 211457" src="https://github.com/user-attachments/assets/44fa4e7c-e6fa-42a5-b4a6-18611b570943" />
+<img width="1770" height="907" alt="Screenshot 2025-10-19 211209" src="https://github.com/user-attachments/assets/17a1120a-20b6-4add-9cda-d147e864537a" />
+<img width="1865" height="953" alt="Screenshot 2025-10-19 210727" src="https://github.com/user-attachments/assets/b4965e47-a2f6-4fa0-83f9-d36063eed565" />
+<img width="1905" height="974" alt="Screenshot 2025-10-19 210702" src="https://github.com/user-attachments/assets/55200e2a-c26b-45b1-8256-9882cd9dfe6c" />
+<img width="1911" height="993" alt="Screenshot 2025-10-19 210648" src="https://github.com/user-attachments/assets/c7510368-28a2-4b0a-9f8d-838080048fef" />
+<img width="1909" height="976" alt="Screenshot 2025-10-19 210626" src="https://github.com/user-attachments/assets/88c5b46a-f7d7-4704-be06-25489fb000aa" />
 
-<img width="1905" height=<img width="1865" height="953" alt="Screenshot 2025-10-19 210727" s<img width="1766" height="972" alt="Screenshot 2025-10-19 211609" src="https://github.<img w<img width="1225" height="721" alt="Screenshot 2025-10-<img width="1911" height="993" alt="Screenshot 2025-10-19 210648" src="https://github.com/user-attachments/assets/f27f0db6-d745-4adb-aa8e-ec2a33f28269" />
-19 212311" src="https://github.com/user-attachments/assets/feb2ca76-fb41-45b0-b646-bc25088a9484" />
-idth="1762" height="878" alt="Screenshot 2025-10-19 211642" src="https://github.com/user-attachments/assets/fb743e94-a132-427b-aadd-752a9eeabfc0" />
-com/user-attachments/assets/5f6e9516-b1e0-47d7-bc73-fb77a824bf31" />
-rc="https://github.com/user-attachments/assets/eebe38b6-a33e-429e-bca3-ced2010262ab" />
-"974" alt="Screenshot 2025-10-19 210702" src="https://github.com/user-attachments/assets/b761dbc8-94ac-4893-8788-ee7762114c19" />
