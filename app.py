@@ -1039,14 +1039,14 @@ def main():
         
         # Geographic distribution
         st.subheader("🗺️ Geographic Distribution")
-        fig = px.scatter_map(
+        fig = px.scatter_mapbox(
             st.session_state.data,
             lat='latitude',
             lon='longitude',
             color='disaster_type',
             size='mag',
             hover_data=['mag'],
-            style='open-street-map',
+            mapbox_style='open-street-map',
             title="Global Distribution of Natural Disasters",
             zoom=1
         )
