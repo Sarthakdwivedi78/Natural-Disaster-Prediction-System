@@ -57,14 +57,12 @@ To run this application on your local machine, follow these steps:
 
 Once you have installed the dependencies, you can run the Streamlit app with a single command:
 
-```bash<img width="1909" height="976" alt="Screenshot 2025-10-19 210626" src="https://github.com/user-attachments/assets/58bfc73d-0619-4f8f-99bd-6c85c3ead1ce" />
-
+```bash
 streamlit run app.py
 
 
 
 
 
-<img width="1909" height="976" alt="Screenshot 2025-10-19 210626" src="https://github.com/user-attachments/assets/cad49c15-d1ba-471d-b6db-e07cd59a39fc" />
 
 
